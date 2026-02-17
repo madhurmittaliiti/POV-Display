@@ -37,18 +37,7 @@ A microcontroller synchronizes LED patterns with rotation speed to render charac
 
 ---
 
-## 📂 Repository Structure
 
-```
-POV-Display/
-│
-├── Hardware/        # Circuit diagrams,  components
-├── Software/        # Arduino/esp code
-├── Images/          # Photos and demo visuals
-└── Docs/            # Working principle and setup guide
-```
-
----
 
 ## 🚀 Setup Instructions
 
